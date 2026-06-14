@@ -1,0 +1,18 @@
+difficulty: hard
+modalities:
+  - text
+  - document
+  - image
+  - audio
+l1: operations_and_qa
+l2: inventory_visual_audit
+task_type: cross_service_synthesis
+required_apis:
+  - google-calendar-api
+  - google-drive-api
+  - gmail-api
+  - quickbooks-api
+distractor_apis:
+  - outlook-api
+  - dropbox-api
+  - box-api
