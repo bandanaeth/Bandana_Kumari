@@ -1,0 +1,13 @@
+id,display_name,given_name,surname,email,job_title,company,mobile_phone
+out_cntct_001,John Smith,John,Smith,john.smith@corp.com,Sales Director,Sales Corp,702-555-0201
+out_cntct_002,Sarah Johnson,Sarah,Johnson,sarah.johnson@corp.com,Marketing Manager,Marketing Inc,702-555-0202
+out_cntct_003,Michael Chen,Michael,Chen,michael.chen@corp.com,IT Support Engineer,Tech Solutions,702-555-0203
+out_cntct_004,Lisa Anderson,Lisa,Anderson,lisa.anderson@corp.com,Finance Manager,Finance Corp,702-555-0204
+out_cntct_005,David Brown,David,Brown,david.brown@corp.com,Operations Director,Operations LLC,702-555-0205
+out_cntct_006,Jennifer Wilson,Jennifer,Wilson,jennifer.wilson@corp.com,HR Manager,Human Resources,702-555-0206
+out_cntct_007,Robert Martinez,Robert,Martinez,robert.martinez@corp.com,Quality Assurance,Testing Solutions,702-555-0207
+out_cntct_008,Patricia Taylor,Patricia,Taylor,patricia.taylor@corp.com,Legal Counsel,Law Services,702-555-0208
+out_cntct_009,James Garcia,James,Garcia,james.garcia@corp.com,Development Manager,Dev Team,702-555-0209
+out_cntct_010,Mary Rodriguez,Mary,Rodriguez,mary.rodriguez@corp.com,Client Services,Support Team,702-555-0210
+out_cntct_011,William Lee,William,Lee,william.lee@corp.com,Product Manager,Product Team,702-555-0211
+out_cntct_012,Linda White,Linda,White,linda.white@corp.com,Facilities Manager,Facilities,702-555-0212

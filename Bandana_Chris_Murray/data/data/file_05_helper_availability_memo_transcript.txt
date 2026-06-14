@@ -1,0 +1,37 @@
+AUDIO MEMO TRANSCRIPT
+Recorded by: Yolanda Reynolds
+Date: October 11, 2026, 3:15 PM
+Duration: 2 minutes 34 seconds
+Original Format: M4A (voice memo)
+
+---TRANSCRIPT---
+
+"Hi Chris, I wanted to follow up on Premium gold charger plates 
+that I mentioned I could lend for the Rodriguez Quinceanera.
+
+I have 48 premium gold charger plates that are perfect for formal events. 
+They're in excellent condition and would work beautifully with your theme.
+
+However, I need to let you know about the timing constraint. On October 17, 
+I'm working my hotel shift in the morning, so I can't drop them off until 
+around 3:00 PM. I know that's during your setup window, so this might be 
+cutting it close.
+
+Once the event is done, I'll need them back by October 19 morning because 
+I have another commitment. So the window for use is October 17 afternoon 
+through October 19 early morning.
+
+Let me know if this timing works for your plans. If you need them earlier, 
+I might be able to arrange something else, but 3 PM is my earliest availability.
+
+Thanks, Chris. Call me back when you have a chance."
+
+---END TRANSCRIPT---
+
+Original Audio: file_05_helper_availability_memo.m4a
+Transcribed: October 11, 2026 15:45:00
+Key Extracted Values:
+- Item: Premium gold charger plates
+- Owner: Yolanda Reynolds
+- Quantity: 48 units
+- Availability: 3 PM drop-off on October 17, need them back by Oct 19 morning

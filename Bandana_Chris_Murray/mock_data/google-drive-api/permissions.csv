@@ -1,0 +1,29 @@
+id,file_id,type,role,email,display_name
+perm_inv_001,file_inv_current,user,writer,chris@eventco.com,Chris Murray
+perm_inv_002,file_inv_current,user,reader,carmen.davidson@eventco.com,Carmen Davidson
+perm_decor_001,file_decor_current,user,writer,chris@eventco.com,Chris Murray
+perm_decor_002,file_decor_current,user,reader,mariana.rodriguez@family.com,Mariana Rodriguez
+perm_budget_001,file_budget_current,user,writer,chris@eventco.com,Chris Murray
+perm_quote_001,file_quote_scan,user,reader,chris@eventco.com,Chris Murray
+perm_notes_001,file_notes_setup,user,writer,chris@eventco.com,Chris Murray
+perm_notes_002,file_notes_setup,user,reader,sofia.murray@univ.edu,Sofia Murray
+perm_audio_001,file_audio_memo,user,reader,chris@eventco.com,Chris Murray
+perm_audio_002,file_audio_memo,user,reader,carmen.davidson@eventco.com,Carmen Davidson
+perm_fld_rodriguez_001,fld_rodriguez_001,user,writer,chris@eventco.com,Chris Murray
+perm_fld_rodriguez_002,fld_rodriguez_001,user,reader,mariana.rodriguez@family.com,Mariana Rodriguez
+perm_inv_old_001,file_inv_old_v2,user,reader,chris@eventco.com,Chris Murray
+perm_decor_old_001,file_decor_old,user,reader,chris@eventco.com,Chris Murray
+perm_budget_old_001,file_budget_old,user,reader,chris@eventco.com,Chris Murray
+perm_fld_fuentes_001,fld_fuentes_draft,user,writer,chris@eventco.com,Chris Murray
+perm_fld_church_001,fld_church,user,reader,fr.frank@parish.org,Father Frank Harris
+perm_fld_hotel_001,fld_hotel_work,user,reader,gerald.patterson@hotel.com,Gerald Patterson
+perm_distractor_001,file_distractor_001,user,owner,chris@eventco.com,Chris Murray
+perm_distractor_002,file_distractor_002,user,owner,chris@eventco.com,Chris Murray
+perm_distractor_003,file_distractor_003,user,reader,sofia.murray@univ.edu,Sofia Murray
+perm_distractor_004,file_distractor_004,user,reader,miguel.murray@school.edu,Miguel Murray
+perm_distractor_005,file_distractor_005,user,reader,isabella.murray@crestview.hs,Isabella Murray
+perm_distractor_006,file_distractor_006,user,owner,chris@eventco.com,Chris Murray
+perm_distractor_007,file_distractor_007,user,owner,chris@eventco.com,Chris Murray
+perm_distractor_008,file_distractor_008,user,reader,fr.frank@parish.org,Father Frank Harris
+perm_distractor_009,file_distractor_009,user,owner,chris@eventco.com,Chris Murray
+perm_distractor_010,file_distractor_010,user,owner,chris@eventco.com,Chris Murray

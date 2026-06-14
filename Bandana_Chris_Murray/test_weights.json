@@ -1,0 +1,202 @@
+{
+  "test_weights": {
+    "test_focal_event_exists": {
+      "weight": 3,
+      "category": "event_discovery",
+      "description": "Validates that the focal event (Rodriguez Quinceanera) is discoverable in calendar"
+    },
+    "test_focal_event_date_is_october_17": {
+      "weight": 1,
+      "category": "event_discovery",
+      "description": "Confirms focal event date is October 17, 2026"
+    },
+    "test_inventory_current_file_exists": {
+      "weight": 3,
+      "category": "temporal_revision_trap",
+      "description": "Validates current inventory file (v2.1) exists and is the most recent version"
+    },
+    "test_inventory_stale_v20_exists": {
+      "weight": 1,
+      "category": "temporal_revision_trap",
+      "description": "Confirms stale inventory version (v2.0) exists to test temporal revision handling"
+    },
+    "test_current_inventory_modified_after_stale": {
+      "weight": 5,
+      "category": "temporal_revision_trap",
+      "description": "Critical: Current inventory must be newer than stale version to test agent's version selection"
+    },
+    "test_current_quote_exists": {
+      "weight": 5,
+      "category": "vendor_quote_verification",
+      "description": "Critical: Current quote from Premium Event Linens ($285) must exist"
+    },
+    "test_current_quote_pending_status": {
+      "weight": 3,
+      "category": "vendor_quote_verification",
+      "description": "Current quote must be in Pending status (not Closed/Accepted)"
+    },
+    "test_current_quote_expiry_date": {
+      "weight": 3,
+      "category": "vendor_quote_verification",
+      "description": "Current quote must have expiry date of October 15, 2026"
+    },
+    "test_stale_quote_pricing": {
+      "weight": 3,
+      "category": "temporal_revision_trap",
+      "description": "Old stale quote at $195 must exist to test quote selection logic"
+    },
+    "test_sofia_helper_window_345_to_615": {
+      "weight": 3,
+      "category": "helper_availability",
+      "description": "Sofia's helper availability window must be 3:45 PM - 6:15 PM"
+    },
+    "test_setup_window_1000_to_1200": {
+      "weight": 3,
+      "category": "helper_availability",
+      "description": "Setup window must be 10:00 AM - 12:00 PM, before Sofia's availability"
+    },
+    "test_client_approval_email_exists": {
+      "weight": 5,
+      "category": "constraint_verification",
+      "description": "Critical: Client approval email from Mariana must exist"
+    },
+    "test_client_theme_approval_content": {
+      "weight": 5,
+      "category": "constraint_verification",
+      "description": "Critical: Client email must contain Modern Elegance theme and no-substitution mandate"
+    },
+    "test_vendor_quote_email_exists": {
+      "weight": 5,
+      "category": "vendor_quote_verification",
+      "description": "Critical: Premium Event Linens email must exist in Gmail"
+    },
+    "test_vendor_quote_email_content_285": {
+      "weight": 5,
+      "category": "vendor_quote_verification",
+      "description": "Critical: Vendor email must contain $285 quote amount"
+    },
+    "test_budget_internal_note_400_remaining": {
+      "weight": 3,
+      "category": "budget_tracking",
+      "description": "Internal budget note must show $400 remaining for supplies"
+    },
+    "test_catering_expense_already_paid": {
+      "weight": 3,
+      "category": "budget_tracking",
+      "description": "Validates catering expense of $400 is already committed and covered"
+    },
+    "test_photography_expense_already_paid": {
+      "weight": 3,
+      "category": "budget_tracking",
+      "description": "Validates photography expense of $350 is already committed and covered"
+    },
+    "test_storage_assessment_email_exists": {
+      "weight": 3,
+      "category": "inventory_damage",
+      "description": "Internal storage assessment email must exist"
+    },
+    "test_storage_assessment_28_usable": {
+      "weight": 5,
+      "category": "inventory_damage",
+      "description": "Critical: Storage email must mention 28 usable napkins (photo evidence)"
+    },
+    "test_storage_assessment_8_damaged": {
+      "weight": 5,
+      "category": "inventory_damage",
+      "description": "Critical: Storage email must mention 8 water-stained damaged napkins"
+    },
+    "test_borrowed_item_email_exists": {
+      "weight": 1,
+      "category": "borrowed_items",
+      "description": "Email about borrowed gold chargers must exist"
+    },
+    "test_borrowed_item_3pm_constraint": {
+      "weight": 3,
+      "category": "borrowed_items",
+      "description": "Borrowed chargers must be constrained to 3 PM delivery (during event, after setup)"
+    },
+    "test_ralph_helper_email_exists": {
+      "weight": 3,
+      "category": "helper_availability",
+      "description": "Email about Sofia helper availability must exist"
+    },
+    "test_helper_email_sofia_name": {
+      "weight": 3,
+      "category": "helper_availability",
+      "description": "Helper email must mention Sofia by name"
+    },
+    "test_helper_email_345_to_615": {
+      "weight": 3,
+      "category": "helper_availability",
+      "description": "Helper email must specify 3:45 PM to 6:15 PM window"
+    },
+    "test_rodriguez_customer_exists": {
+      "weight": 1,
+      "category": "fk_consistency",
+      "description": "Rodriguez customer record must exist in QuickBooks"
+    },
+    "test_premium_event_linens_vendor_active": {
+      "weight": 3,
+      "category": "fk_consistency",
+      "description": "Premium Event Linens vendor must be active in QuickBooks"
+    },
+    "test_fk_event_to_calendar": {
+      "weight": 3,
+      "category": "fk_consistency",
+      "description": "Event calendar_id must reference valid calendar (FK check)"
+    },
+    "test_fk_estimate_to_customer": {
+      "weight": 3,
+      "category": "fk_consistency",
+      "description": "Estimate CustomerRef must reference valid customer (FK check)"
+    },
+    "test_fk_estimate_to_vendor": {
+      "weight": 1,
+      "category": "fk_consistency",
+      "description": "Estimate must reference correct vendor by name"
+    },
+    "test_trap_invalid_events_present": {
+      "weight": -5,
+      "category": "trap_validation",
+      "description": "Critical negative: Trap events (cancelled helper, tentative focal) must exist for agent to filter correctly"
+    },
+    "test_no_tentative_focal_event_used": {
+      "weight": 0,
+      "category": "trap_validation",
+      "description": "PLACEHOLDER - consolidated into test_trap_invalid_events_present (removed from calculation)"
+    },
+    "test_no_wrong_period_event_used": {
+      "weight": -1,
+      "category": "trap_validation",
+      "description": "Negative weight: August 2026 vendor demo must exist in data (agent should exclude)"
+    },
+    "test_trap_outlook_contains_no_answer_values": {
+      "weight": -5,
+      "category": "distractor_purity",
+      "description": "Critical negative: Outlook service must contain zero Rodriguez/napkin values"
+    },
+    "test_trap_dropbox_contains_no_current_files": {
+      "weight": -3,
+      "category": "distractor_purity",
+      "description": "Moderate negative: Dropbox service must contain no current (October 2026) event files"
+    },
+  },
+  "weight_scale": {
+    "positive": [1, 3, 5],
+    "negative": [-1, -3, -5],
+    "semantics": {
+      "1": "minor/audit/formatting",
+      "3": "important sub-goal/moderate requirement",
+      "5": "critical/headline outcome or hard prohibition"
+    }
+  },
+  "summary": {
+    "total_tests": 37,
+    "positive_tests": 32,
+    "negative_tests": 5,
+    "total_positive_weight": 98,
+    "total_negative_weight": -13,
+    "net_weight": 85,
+    "pass_all_threshold": true
+  }
+}

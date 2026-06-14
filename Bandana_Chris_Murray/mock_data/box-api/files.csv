@@ -1,0 +1,13 @@
+id,name,parent_id,owner_id,description,size,extension,sha1,created_at,modified_at
+box_file_001,Archived_Events_2025,box_fld_archive,owner_chris,Prior event archive files from 2025,0,none,archive_ref_001,2025-01-15T08:00:00,2025-12-31T20:00:00
+box_file_002,Old_Vendor_Quotes_2024.pdf,box_fld_archive,owner_chris,Vendor quote compilation from 2024,850000,pdf,old_vendor_quotes_sha1,2024-12-01T10:00:00,2024-12-15T14:30:00
+box_file_003,Event_Invoice_Templates.xlsx,box_fld_archive,owner_chris,Invoice template collection - archived version,245000,xlsx,template_ref_001,2024-06-20T09:15:00,2024-12-31T16:45:00
+box_file_004,Photography_Portfolio_2024.docx,box_fld_archive,owner_chris,Prior year photography portfolio reference,156000,docx,photo_portfolio_sha1,2024-11-10T13:00:00,2024-12-20T15:20:00
+box_file_005,Catering_Menu_Samples.pdf,box_fld_archive,owner_chris,Sample catering menus from previous events,980000,pdf,catering_samples_sha1,2024-09-05T11:30:00,2024-10-15T14:00:00
+box_file_006,Guest_List_Template.xlsx,box_fld_shared,owner_chris,Blank guest list spreadsheet template,78000,xlsx,guest_template_sha1,2024-07-01T10:00:00,2025-08-20T12:15:00
+box_file_007,Venue_Contacts.docx,box_fld_shared,owner_chris,List of venue contact information,125000,docx,venue_contacts_sha1,2025-03-10T14:45:00,2026-02-28T11:30:00
+box_file_008,Prior_Event_Summary_2023.pdf,box_fld_archive,owner_chris,Summary report from 2023 event,450000,pdf,event_summary_sha1,2023-12-31T17:00:00,2024-01-15T09:00:00
+box_file_009,Budget_Comparison_2024.xlsx,box_fld_archive,owner_chris,Year-over-year budget comparison 2024,189000,xlsx,budget_comp_sha1,2024-12-15T13:30:00,2025-01-10T10:45:00
+box_file_010,Vendor_Review_Criteria.docx,box_fld_shared,owner_chris,Vendor evaluation and selection criteria,67000,docx,vendor_criteria_sha1,2025-01-20T15:00:00,2025-06-30T14:20:00
+box_file_011,Decoration_Style_Inspiration.pdf,box_fld_shared,owner_chris,Design inspiration collection - general styles,2150000,pdf,decoration_styles_sha1,2025-02-14T11:00:00,2025-08-30T16:15:00
+box_file_012,Florist_Options_Review.xlsx,box_fld_archive,owner_chris,Florist comparison sheet 2024 season,134000,xlsx,florist_options_sha1,2024-08-01T10:30:00,2024-12-10T13:45:00

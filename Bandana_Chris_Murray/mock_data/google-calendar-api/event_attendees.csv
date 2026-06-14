@@ -1,0 +1,29 @@
+event_id,email,display_name,response_status,optional,organizer
+evt_rodriguez_001,chris@eventco.com,Chris Murray,accepted,false,false
+evt_rodriguez_001,mariana.rodriguez@family.com,Mariana Rodriguez,accepted,false,true
+evt_rodriguez_001,carmen.davidson@eventco.com,Carmen Davidson,accepted,false,false
+evt_setup_001,chris@eventco.com,Chris Murray,accepted,false,true
+evt_setup_001,venue.contact@emeraldhall.com,Emerald Hall Staff,accepted,false,false
+evt_walkthrough_001,chris@eventco.com,Chris Murray,accepted,false,false
+evt_walkthrough_001,mariana.rodriguez@family.com,Mariana Rodriguez,accepted,false,true
+evt_walkthrough_001,mary.jensen@choreography.co,Mary Jensen,accepted,false,false
+evt_helper_001,sofia.murray@univ.edu,Sofia Murray,accepted,false,true
+evt_helper_001,chris@eventco.com,Chris Murray,accepted,false,false
+evt_old_quince_001,mariana.rodriguez@family.com,Mariana Rodriguez,tentative,false,true
+evt_old_quince_001,chris@eventco.com,Chris Murray,tentative,false,false
+evt_old_event_001,conf.organizer@lvcc.com,Conference Organizer,accepted,false,true
+evt_hotel_shift_001,gerald.patterson@hotel.com,Gerald Patterson - Manager,accepted,false,true
+evt_hotel_shift_001,chris@eventco.com,Chris Murray,accepted,false,false
+evt_hotel_shift_001,yolanda.reynolds@hotel.com,Yolanda Reynolds,tentative,true,false
+evt_mass_001,fr.frank@parish.org,Father Frank Harris,accepted,false,true
+evt_mass_001,chris@eventco.com,Chris Murray,accepted,false,false
+evt_rosa_call_001,rosa.murray@family.com,Rosa Murray,accepted,false,false
+evt_rosa_call_001,chris@eventco.com,Chris Murray,accepted,false,true
+evt_fuentes_event_001,camila.fuentes@family.com,Camila Fuentes,tentative,false,true
+evt_halloween_001,activities@apartmentcomplex.com,Complex Activities,accepted,false,true
+evt_halloween_001,chris@eventco.com,Chris Murray,accepted,false,false
+evt_vendor_call_001,mary.jensen@choreography.co,Mary Jensen,declined,false,false
+evt_vendor_call_001,chris@eventco.com,Chris Murray,accepted,false,true
+evt_distractor_005,fr.frank@parish.org,Father Frank Harris,accepted,false,true
+evt_distractor_005,chris@eventco.com,Chris Murray,accepted,false,false
+evt_distractor_008,fr.frank@parish.org,Father Frank Harris,accepted,false,true

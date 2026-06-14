@@ -1,0 +1,6 @@
+Id,DisplayName,GivenName,FamilyName,CompanyName,PrimaryEmailAddr,PrimaryPhone,BillAddr_Line1,BillAddr_City,BillAddr_CountrySubDivisionCode,BillAddr_PostalCode,Balance,Active,Job,Notes
+cust_rodriguez_001,Rodriguez Family Event,Mariana,Rodriguez,Rodriguez Family,mariana.rodriguez@family.com,(702) 555-0167,1200 Family Lane,Las Vegas,NV,89109,0.00,true,false,Quinceañera event October 17 2026 at Emerald Hall. Modern Elegance theme approved.
+cust_fuentes_001,Fuentes Family Event,Camila,Fuentes,Fuentes Family,camila.fuentes@family.com,(702) 555-0145,950 Heritage Avenue,Las Vegas,NV,89108,0.00,true,false,Quinceañera event November 14 2026 at Las Palmas Banquet Hall. Tentative booking.
+cust_garcia_001,Garcia Family,Maria,Garcia,Garcia Household,maria.garcia@family.com,(702) 555-0123,1800 Gold Street,Las Vegas,NV,89110,0.00,true,false,Prior event September 2024. Archived customer file.
+cust_sanchez_001,Sanchez Event,José,Sanchez,Sanchez Family,jose.sanchez@family.com,(702) 555-0189,2200 Silver Road,Las Vegas,NV,89111,0.00,false,false,Prior event October 2023. Archived and inactive.
+cust_demo_001,Demo Client,Demo,Client,Demo Corp,demo.client@corp.com,(702) 555-0200,5000 Demo Lane,Las Vegas,NV,89104,0.00,true,true,Template demonstration account - not active.

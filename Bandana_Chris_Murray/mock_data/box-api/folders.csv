@@ -1,0 +1,6 @@
+id,name,parent_id,owner_id,description,created_at,modified_at,item_count
+box_fld_archive,Archived_Projects,box_fld_root,owner_chris,Archive of completed events and old project files,2024-06-01T08:00:00,2025-12-31T20:00:00,5
+box_fld_shared,Shared_Resources,box_fld_root,owner_chris,Shared templates and resources for team collaboration,2025-01-15T09:00:00,2026-09-30T14:30:00,7
+box_fld_root,My Files,,,User root directory for Box storage,2024-01-01T08:00:00,2026-10-11T16:45:00,12
+box_fld_personal,Personal_Backups,box_fld_root,owner_chris,Personal document backups,2025-02-20T10:00:00,2026-08-15T11:20:00,0
+box_fld_clients,Client_Data,box_fld_root,owner_chris,Client information and project details,2025-06-01T09:30:00,2026-09-20T15:00:00,0

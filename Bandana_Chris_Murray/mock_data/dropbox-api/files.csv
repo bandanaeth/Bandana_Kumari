@@ -1,0 +1,23 @@
+id,name,path_lower,path_display,is_folder,size,client_modified,rev
+dbx_file_001,Archive 2025 Events,/archive/2025_events,/Archive 2025 Events,true,0,2025-12-31T23:59:00,5f1a2b3c4d5e
+dbx_file_002,2024 Event Photos,/archive/2024_event_photos,/Archive/2024 Event Photos,true,0,2025-01-15T14:30:00,4e0a1b2c3d4e
+dbx_file_003,Old_Quotes_and_Receipts,/archive/old_business_docs,/Archive/Old Quotes and Receipts,true,0,2024-12-20T09:00:00,3d9a0b1c2d3e
+dbx_file_004,vendor_comparison_2024.xlsx,/archive/vendor_comparison_2024.xlsx,/Archive/vendor_comparison_2024.xlsx,false,125000,2024-11-15T11:20:00,2c8a9b0c1d2e
+dbx_file_005,event_template_v3.docx,/archive/event_template_v3.docx,/Archive/event_template_v3.docx,false,95000,2024-10-20T13:45:00,1b7a8c9d0e1f
+dbx_file_006,invoice_archive_2024.pdf,/archive/invoices/invoice_archive_2024.pdf,/Archive/invoices/invoice_archive_2024.pdf,false,850000,2025-01-10T10:15:00,0a6b7c8d9e0f
+dbx_file_007,Team_Collaboration_Folder,/shared/team_collab,/Shared/Team Collaboration Folder,true,0,2026-09-30T16:00:00,9e5f6a7b8c9d
+dbx_file_008,Q3_Reports,/shared/q3_reports,/Shared/Q3 Reports,true,0,2026-09-28T14:30:00,8d4e5f6a7b8c
+dbx_file_009,archived_proposals_2023.xlsx,/archive/proposals_2023.xlsx,/Archive/archived_proposals_2023.xlsx,false,210000,2023-12-31T23:59:00,7c3d4e5f6a7b
+dbx_file_010,old_budget_tracker.xlsx,/archive/old_budgets/budget_2023.xlsx,/Archive/old budgets/budget_2023.xlsx,false,89000,2023-12-01T12:00:00,6b2c3d4e5f6a
+dbx_file_011,vendor_2024_backup,/archive/vendor_backups/vendor_2024,/Archive/vendor backups/vendor 2024,true,0,2024-12-31T23:59:00,5a1b2c3d4e5f
+dbx_file_012,photography_references.pdf,/shared/references/photography.pdf,/Shared/references/photography.pdf,false,1250000,2025-06-15T10:00:00,4a0b1c2d3e4f
+dbx_file_013,family_photos_archive,/personal/photos/family,/Personal/photos/family,true,0,2024-08-20T15:20:00,3a9b0c1d2e3f
+dbx_file_014,school_docs_backup.zip,/personal/education/school_docs.zip,/Personal/education/school_docs.zip,false,450000,2025-09-01T09:30:00,2a8b9c0d1e2f
+dbx_file_015,travel_plans_2025.docx,/personal/travel/plans_2025.docx,/Personal/travel/plans_2025.docx,false,75000,2025-01-10T14:15:00,1a7b8c9d0e1f
+dbx_file_016,recipe_collection_v2.xlsx,/personal/kitchen/recipes_v2.xlsx,/Personal/kitchen/recipes_v2.xlsx,false,125000,2025-04-30T17:45:00,0a6b7c8d9e0f
+dbx_file_017,car_maintenance_log_2024.xlsx,/personal/car/maintenance_log.xlsx,/Personal/car/maintenance_log.xlsx,false,45000,2024-12-31T20:00:00,9f5e6d7c8b0a
+dbx_file_018,health_insurance_summary.pdf,/personal/documents/health_insurance.pdf,/Personal/documents/health_insurance.pdf,false,890000,2025-03-15T11:00:00,8e4d5c6b7a9f
+dbx_file_019,tax_forms_2024.zip,/personal/documents/taxes_2024.zip,/Personal/documents/taxes_2024.zip,false,1200000,2025-02-28T14:30:00,7d3c4b5a6f8e
+dbx_file_020,hobby_projects_archive,/personal/hobbies/projects,/Personal/hobbies/projects,true,0,2025-01-20T10:00:00,6c2b3a4f5e7d
+dbx_file_021,gardening_tips.txt,/personal/hobbies/gardening_tips.txt,/Personal/hobbies/gardening_tips.txt,false,12000,2024-05-15T09:20:00,5b1a2f3e4d6c
+dbx_file_022,home_improvement_ideas.docx,/personal/home/improvement_ideas.docx,/Personal/home/improvement_ideas.docx,false,125000,2025-07-10T16:45:00,4a0f1e2d3c5b

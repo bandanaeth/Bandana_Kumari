@@ -1,0 +1,310 @@
+[
+  {
+    "Id": "est_001",
+    "DocNumber": "PEL-2026-4481",
+    "TxnDate": "2026-10-10",
+    "ExpirationDate": "2026-10-15",
+    "CustomerRef": {
+      "value": "cust_rodriguez_001",
+      "name": "Rodriguez Family Event"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 285.00,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Formal white linen napkins - 48 units Grade A",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "item_linens_001",
+            "name": "Formal White Linen Napkins"
+          },
+          "UnitPrice": 5.94,
+          "Qty": 48
+        }
+      }
+    ],
+    "TotalAmt": 285.00,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-10-10T09:15:00-07:00",
+      "LastUpdatedTime": "2026-10-10T09:15:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "est_002",
+    "DocNumber": "PEL-2025-3341",
+    "TxnDate": "2025-08-15",
+    "ExpirationDate": "2025-08-31",
+    "CustomerRef": {
+      "value": "cust_garcia_001",
+      "name": "Garcia Family"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 195.00,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Formal white linen napkins - 36 units",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "item_linens_001",
+            "name": "Formal White Linen Napkins"
+          },
+          "UnitPrice": 5.42,
+          "Qty": 36
+        }
+      }
+    ],
+    "TotalAmt": 195.00,
+    "TxnStatus": "Closed",
+    "AcceptedDate": "2025-08-16",
+    "LinkedTxn": [
+      {
+        "TxnId": "inv_garcia_001",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-08-15T10:00:00-07:00",
+      "LastUpdatedTime": "2025-09-01T14:30:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "est_003",
+    "DocNumber": "PEL-2026-4201",
+    "TxnDate": "2026-09-28",
+    "ExpirationDate": "2026-10-08",
+    "CustomerRef": {
+      "value": "cust_rodriguez_001",
+      "name": "Rodriguez Family Event"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 245.00,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Formal white linen napkins - 40 units Grade A",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "item_linens_001",
+            "name": "Formal White Linen Napkins"
+          },
+          "UnitPrice": 6.13,
+          "Qty": 40
+        }
+      }
+    ],
+    "TotalAmt": 245.00,
+    "TxnStatus": "Closed",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-09-28T14:00:00-07:00",
+      "LastUpdatedTime": "2026-10-08T16:20:00-07:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "est_004",
+    "DocNumber": "EDC-2026-1850",
+    "TxnDate": "2026-10-02",
+    "ExpirationDate": "2026-10-12",
+    "CustomerRef": {
+      "value": "cust_rodriguez_001",
+      "name": "Rodriguez Family Event"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 520.00,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Custom gold centerpiece arrangements - 12 units",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "item_centerpieces_001",
+            "name": "Gold Centerpieces"
+          },
+          "UnitPrice": 43.33,
+          "Qty": 12
+        }
+      }
+    ],
+    "TotalAmt": 520.00,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-10-03",
+    "LinkedTxn": [
+      {
+        "TxnId": "inv_rodriguez_centerpieces",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-02T11:00:00-07:00",
+      "LastUpdatedTime": "2026-10-03T09:30:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "est_005",
+    "DocNumber": "RFC-2026-5501",
+    "TxnDate": "2026-10-05",
+    "ExpirationDate": "2026-10-20",
+    "CustomerRef": {
+      "value": "cust_fuentes_001",
+      "name": "Fuentes Family Event"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 180.00,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Standard formal linen napkins - 60 units",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "item_linens_standard",
+            "name": "Standard Linens"
+          },
+          "UnitPrice": 3.00,
+          "Qty": 60
+        }
+      }
+    ],
+    "TotalAmt": 180.00,
+    "TxnStatus": "Pending",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-10-05T13:00:00-07:00",
+      "LastUpdatedTime": "2026-10-05T13:00:00-07:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "est_006",
+    "DocNumber": "PEL-2026-3890",
+    "TxnDate": "2026-09-01",
+    "ExpirationDate": "2026-09-15",
+    "CustomerRef": {
+      "value": "cust_garcia_001",
+      "name": "Garcia Family"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 310.00,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Premium formal linens package - prior event",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "item_linens_premium",
+            "name": "Premium Linens"
+          },
+          "UnitPrice": 310.00,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 310.00,
+    "TxnStatus": "Closed",
+    "AcceptedDate": null,
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-09-01T10:00:00-07:00",
+      "LastUpdatedTime": "2026-09-20T14:15:00-07:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "est_007",
+    "DocNumber": "FLO-2026-2234",
+    "TxnDate": "2026-09-15",
+    "ExpirationDate": "2026-09-30",
+    "CustomerRef": {
+      "value": "cust_rodriguez_001",
+      "name": "Rodriguez Family Event"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 275.00,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Floral arrangements - bouquets and accents",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "item_flowers_001",
+            "name": "Floral Accents"
+          },
+          "UnitPrice": 275.00,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 275.00,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-09-16",
+    "LinkedTxn": [
+      {
+        "TxnId": "inv_rodriguez_flowers",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-09-15T14:00:00-07:00",
+      "LastUpdatedTime": "2026-09-16T10:45:00-07:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "est_008",
+    "DocNumber": "PPS-2026-8801",
+    "TxnDate": "2026-09-20",
+    "ExpirationDate": "2026-10-05",
+    "CustomerRef": {
+      "value": "cust_rodriguez_001",
+      "name": "Rodriguez Family Event"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.00,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Professional photography package - 15 shots plus candids",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "item_photo_001",
+            "name": "Photography Package"
+          },
+          "UnitPrice": 350.00,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.00,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-09-21",
+    "LinkedTxn": [
+      {
+        "TxnId": "inv_rodriguez_photo",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-09-20T11:30:00-07:00",
+      "LastUpdatedTime": "2026-09-21T09:00:00-07:00"
+    },
+    "SyncToken": "2"
+  }
+]

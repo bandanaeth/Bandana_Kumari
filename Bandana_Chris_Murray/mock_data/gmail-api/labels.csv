@@ -1,0 +1,12 @@
+id,name,type,messages_total,messages_unread,threads_total,threads_unread
+LABEL_PERSONAL,Personal,user,8,2,8,2
+LABEL_WORK,Work & Events,user,5,1,5,1
+LABEL_VENDOR,Vendors & Quotes,user,6,1,5,1
+LABEL_CLIENT,Client Communications,user,3,0,3,0
+LABEL_CHURCH,Parish & Church,user,3,2,3,2
+LABEL_BILLING,Billing & Accounts,user,3,2,3,2
+LABEL_PROMO,Promotions,user,4,3,4,3
+LABEL_INTERNAL,Internal Notes,user,2,1,2,1
+LABEL_VENUE,Venue Coordination,user,1,0,1,0
+LABEL_ARCHIVE,Prior Events,user,2,1,2,1
+LABEL_ADMIN,Administrative,system,0,0,0,0

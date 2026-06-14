@@ -1,0 +1,212 @@
+[
+  {
+    "Id": "exp_001",
+    "TxnDate": "2026-10-01",
+    "TotalAmt": 400.00,
+    "VendorRef": {
+      "value": "vnd_catering_001",
+      "name": "Emerald Hall Catering"
+    },
+    "Line": [
+      {
+        "Description": "Event catering deposit and initial services - Rodriguez Quinceañera event",
+        "Amount": 400.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Event Supplies and Services"
+    },
+    "MetaData": {
+      "CreateTime": "2026-10-01T10:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_002",
+    "TxnDate": "2026-10-03",
+    "TotalAmt": 350.00,
+    "VendorRef": {
+      "value": "vnd_photo_001",
+      "name": "Professional Photography Services"
+    },
+    "Line": [
+      {
+        "Description": "Photography services deposit - Rodriguez quinceañera portfolio and candids",
+        "Amount": 350.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Event Supplies and Services"
+    },
+    "MetaData": {
+      "CreateTime": "2026-10-03T14:30:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_003",
+    "TxnDate": "2026-09-15",
+    "TotalAmt": 125.00,
+    "VendorRef": {
+      "value": "vnd_utility_001",
+      "name": "NV Energy"
+    },
+    "Line": [
+      {
+        "Description": "September household utility billing - unrelated to event",
+        "Amount": 125.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Household Utilities"
+    },
+    "MetaData": {
+      "CreateTime": "2026-09-15T12:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_004",
+    "TxnDate": "2026-09-20",
+    "TotalAmt": 450.00,
+    "VendorRef": {
+      "value": "vnd_music_001",
+      "name": "Music Academy Instruction"
+    },
+    "Line": [
+      {
+        "Description": "Miguel piano lessons - household education expense",
+        "Amount": 450.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Family Education"
+    },
+    "MetaData": {
+      "CreateTime": "2026-09-20T15:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_005",
+    "TxnDate": "2026-09-08",
+    "TotalAmt": 280.00,
+    "VendorRef": {
+      "value": "vnd_parish_001",
+      "name": "St Vincent de Paul Supplies"
+    },
+    "Line": [
+      {
+        "Description": "Parish volunteer contribution for church food bank program",
+        "Amount": 280.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Charitable Giving"
+    },
+    "MetaData": {
+      "CreateTime": "2026-09-08T10:30:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_006",
+    "TxnDate": "2026-08-25",
+    "TotalAmt": 195.00,
+    "VendorRef": {
+      "value": "vnd_old_linens_001",
+      "name": "Classic Linen Rentals"
+    },
+    "Line": [
+      {
+        "Description": "Prior event linen rental - Garcia quinceañera September 2024",
+        "Amount": 195.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Event Supplies and Services"
+    },
+    "MetaData": {
+      "CreateTime": "2026-08-25T09:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_007",
+    "TxnDate": "2026-10-05",
+    "TotalAmt": 89.50,
+    "VendorRef": {
+      "value": "vnd_household_001",
+      "name": "Safeway Groceries"
+    },
+    "Line": [
+      {
+        "Description": "Groceries for household meal planning - family cooking",
+        "Amount": 89.50
+      }
+    ],
+    "AccountRef": {
+      "name": "Household Food"
+    },
+    "MetaData": {
+      "CreateTime": "2026-10-05T16:45:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_008",
+    "TxnDate": "2026-09-30",
+    "TotalAmt": 75.00,
+    "VendorRef": {
+      "value": "vnd_hotel_supply_002",
+      "name": "Hotel Operations Supply"
+    },
+    "Line": [
+      {
+        "Description": "Hotel housekeeping supplies - work-related expense",
+        "Amount": 75.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Work Supplies"
+    },
+    "MetaData": {
+      "CreateTime": "2026-09-30T11:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_009",
+    "TxnDate": "2026-07-10",
+    "TotalAmt": 310.00,
+    "VendorRef": {
+      "value": "vnd_florist_001",
+      "name": "Rose Garden Florals"
+    },
+    "Line": [
+      {
+        "Description": "Prior event - July 2026 community event flowers",
+        "Amount": 310.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Event Supplies and Services"
+    },
+    "MetaData": {
+      "CreateTime": "2026-07-10T14:00:00-07:00"
+    }
+  },
+  {
+    "Id": "exp_010",
+    "TxnDate": "2026-06-15",
+    "TotalAmt": 220.00,
+    "VendorRef": {
+      "value": "vnd_dj_001",
+      "name": "Sound and Light Events"
+    },
+    "Line": [
+      {
+        "Description": "Prior DJ booking - June 2026 community gathering",
+        "Amount": 220.00
+      }
+    ],
+    "AccountRef": {
+      "name": "Event Supplies and Services"
+    },
+    "MetaData": {
+      "CreateTime": "2026-06-15T10:30:00-07:00"
+    }
+  }
+]

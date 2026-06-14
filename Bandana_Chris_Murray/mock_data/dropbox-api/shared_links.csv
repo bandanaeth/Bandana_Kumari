@@ -1,0 +1,9 @@
+id,path_lower,url,visibility,file_id,expires
+dbx_link_001,/archive/2024_event_photos,https://www.dropbox.com/s/arc2024photos?dl=0,team_access,dbx_file_002,
+dbx_link_002,/shared/q3_reports,https://www.dropbox.com/s/q3rpts2026?dl=0,shared_link,dbx_file_008,2026-12-31T23:59:00
+dbx_link_003,/personal/photos/family,https://www.dropbox.com/s/famphoto2024?dl=0,password_protected,dbx_file_013,
+dbx_link_004,/personal/travel/plans_2025.docx,https://www.dropbox.com/s/travelplans25?dl=0,shared_link,dbx_file_015,2026-06-30T23:59:00
+dbx_link_005,/archive/vendor_backups/vendor_2024,https://www.dropbox.com/s/vendorbackup24?dl=0,team_access,dbx_file_011,2025-12-31T23:59:00
+dbx_link_006,/personal/documents/taxes_2024.zip,https://www.dropbox.com/s/taxes2024secure?dl=0,password_protected,dbx_file_019,
+dbx_link_007,/shared/references/photography.pdf,https://www.dropbox.com/s/photoreferences?dl=0,shared_link,dbx_file_012,
+dbx_link_008,/archive/old_budget_2023.xlsx,https://www.dropbox.com/s/oldbudget23?dl=0,team_access,dbx_file_010,2023-12-31T23:59:00

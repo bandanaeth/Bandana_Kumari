@@ -1,0 +1,56 @@
+Generated non-image artifacts
+
+- artifact_manifest.txt
+- file_01.xlsx
+- file_02.docx
+- file_04.pdf
+- file_05.m4a
+- file_06.txt
+- file_07.pdf
+- file_08.xlsx
+- file_11.txt
+- file_12.pdf
+- file_14.docx
+- file_15.xlsx
+- file_16.txt
+- file_17.pdf
+- file_19.txt
+- file_20.docx
+- file_21.pdf
+- file_23.xlsx
+- file_24.txt
+- file_25.pdf
+- file_27.docx
+- file_28.txt
+- file_29.pdf
+- file_30.xlsx
+- file_32.txt
+- file_33.pdf
+- file_34.docx
+- file_36.xlsx
+- file_37.txt
+- file_38.pdf
+- file_40.docx
+- file_41.txt
+- file_42.pdf
+- file_43.xlsx
+- file_45.txt
+- file_46.pdf
+- file_47.docx
+- file_49.xlsx
+- file_50.txt
+- file_51.pdf
+
+Skipped image artifacts
+
+- file_03.jpg (signal photo skipped by request)
+- file_13.jpg
+- file_18.jpg
+- file_22.jpg
+- file_26.jpg
+- file_31.jpg
+- file_35.jpg
+- file_39.jpg
+- file_44.jpg
+- file_48.jpg
+- file_52.jpg

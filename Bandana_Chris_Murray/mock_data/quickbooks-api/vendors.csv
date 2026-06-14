@@ -1,0 +1,21 @@
+Id,DisplayName,CompanyName,PrimaryEmailAddr,PrimaryPhone,BillAddr_Line1,BillAddr_City,BillAddr_CountrySubDivisionCode,BillAddr_PostalCode,Balance,Active,AcctNum,Vendor1099
+vnd_premium_001,Premium Event Linens,Premium Event Linens Inc,quotes@premiumeventlinens.com,(702) 555-0141,2847 Event Supply Way,Las Vegas,NV,89109,285.00,true,PEL-2024-0891,false
+vnd_old_linens_001,Classic Linen Rentals,Classic Linens & Rentals LLC,sales@classiclinens.com,(702) 555-0198,1250 Rental Road,Las Vegas,NV,89102,0.00,false,CLR-2024-0445,true
+vnd_decorator_001,Emerald Decorations,Emerald Decorations Corp,info@emeraldecor.com,(702) 555-0167,5500 Décor Plaza,Las Vegas,NV,89110,120.50,true,EDC-2024-0623,false
+vnd_florist_001,Rose Garden Florals,Rose Garden Florals LLC,order@rosegarden.com,(702) 555-0105,3100 Flower Avenue,Las Vegas,NV,89104,45.00,true,RGF-2024-0334,false
+vnd_catering_001,Emerald Hall Catering,Emerald Hall Events Catering,catering@emeraldhall.com,(702) 555-0189,Emerald Hall Main Ballroom,Las Vegas,NV,89109,350.00,true,EHC-2024-0756,false
+vnd_similar_name_001,Premium Event Planning,Premium Event Planning Services,info@premiumevents.com,(702) 555-0122,4200 Planning Drive,Las Vegas,NV,89107,0.00,true,PEP-2024-0512,false
+vnd_retired_001,Old Event Linens Supply,Old Event Linens Supply Co,deprecated@oldlinens.com,(702) 555-0045,999 Closed Street,Las Vegas,NV,89106,0.00,false,OEL-2023-0189,true
+vnd_similar_name_002,Premium Event Rentals,Premium Event Rentals Co,rentals@premiumrental.com,(702) 555-0203,6700 Rental Plaza,Las Vegas,NV,89111,0.00,false,PER-2024-0891,false
+vnd_hotel_vendor_001,Hotel Supply Corporation,Hotel Supply Corp,wholesale@hotelsupply.com,(702) 555-0167,1500 Wholesale Way,Las Vegas,NV,89105,200.00,true,HSC-2024-0445,false
+vnd_parish_001,St Vincent de Paul Supplies,Parish Support Services,orders@svdp.org,(702) 555-0089,2200 Charity Road,Las Vegas,NV,89108,0.00,true,SVDP-2024-0234,false
+vnd_photo_001,Professional Photography Services,ProPhoto Studios,bookings@prophotostudios.com,(702) 555-0156,3800 Studio Lane,Las Vegas,NV,89112,0.00,true,PPS-2024-0678,false
+vnd_dj_001,Sound and Light Events,Sound and Light Productions,events@soundandlight.com,(702) 555-0134,4500 Audio Avenue,Las Vegas,NV,89103,150.00,true,SLE-2024-0523,false
+vnd_transport_001,Party Transport Rentals,Party Transport Solutions,rentals@partytransport.com,(702) 555-0178,5000 Fleet Street,Las Vegas,NV,89109,0.00,true,PTR-2024-0445,false
+vnd_music_001,Music Academy Instruction,Music Academy Instruction Center,office@musicacademy.com,(702) 555-0167,1100 Harmony Road,Las Vegas,NV,89101,0.00,false,MAI-2024-0123,false
+vnd_household_001,Safeway Groceries,Safeway Inc,corporate@safeway.com,(702) 555-0200,500 Retail Plaza,Las Vegas,NV,89104,0.00,true,SAF-2024-0999,false
+vnd_insurance_001,Blue Cross Insurance,Blue Cross Blue Shield,customer@bluecross.com,1-800-xxx-xxxx,PO Box 10000,Las Vegas,NV,89190,0.00,true,BCS-2024-0456,false
+vnd_church_001,Parish Church Office,Our Lady of Las Vegas,office@ourladyofvegas.org,(702) 555-0145,1600 Sacred Road,Las Vegas,NV,89106,0.00,true,OLV-2024-0234,false
+vnd_utility_001,NV Energy,Nevada Energy Corp,billing@nvenergy.com,1-702-555-0100,5200 Power Avenue,Las Vegas,NV,89109,125.00,true,NVE-2024-0678,false
+vnd_hotel_supply_002,Hotel Operations Supply,Hotel Ops Supply Chain,orders@hotelops.com,(702) 555-0134,2300 Supply Circle,Las Vegas,NV,89102,0.00,true,HOS-2024-0456,false
+vnd_retired_002,Vintage Event Linens,Vintage Event Linens Ltd,sales@vintagelinens.com,(702) 555-0067,8888 History Lane,Las Vegas,NV,89113,0.00,false,VEL-2023-0999,true

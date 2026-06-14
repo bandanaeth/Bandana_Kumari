@@ -1,0 +1,9 @@
+Item Category,Item Name,Description,Required Quantity,On-Hand,Reserved,Damaged,Usable,Short Count,Status
+Linens,Formal white linen napkins,Formal white linen napkins for table service,48,36,6,8,22,26,SHORT - REQUIRES REPLACEMENT
+Linens,Formal white tablecloths,90x90 inch premium linens,8,8,0,0,8,0,SUFFICIENT
+Linens,Napkin rings,Silver napkin rings for formal place settings,48,52,0,0,52,0,SUFFICIENT
+Decor,Centerpiece holders,Gold-accented centerpiece vases,16,16,0,0,16,0,SUFFICIENT
+Decor,String lights,Warm white string lights for ambiance,4,5,0,1,4,0,SUFFICIENT
+Glassware,Water glasses,12 oz crystal water glasses,96,100,0,2,98,0,SUFFICIENT
+Glassware,Wine glasses,8 oz crystal wine glasses,48,48,0,0,48,0,SUFFICIENT
+Chargers,Gold charger plates,Borrowed from Yolanda Reynolds,48,0,48,0,0,0,BORROWED - 3 PM DELIVERY

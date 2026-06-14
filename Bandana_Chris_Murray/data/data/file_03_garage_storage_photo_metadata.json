@@ -1,0 +1,18 @@
+{
+  "filename": "garage_storage_photo.jpg",
+  "taken_date": "2026-10-11T14:30:00",
+  "location": "Home garage lower shelf center bin",
+  "camera": "iPhone 12 Pro",
+  "inspection_result": {
+    "bin_label": "Lower shelf center bin",
+    "visible_count": 28,
+    "item_type": "Formal white linen napkins",
+    "damaged_item_label": "Water-stained napkins",
+    "damaged_count": 8,
+    "damage_type": "Water staining from storage leak",
+    "usable_count": 22,
+    "notes": "Lower shelf has water damage from recent rain. 28 napkins are usable. 8 napkins show water staining and should be excluded from service use. Must purchase replacement set."
+  },
+  "inspection_by": "Chris Murray",
+  "inspection_date": "2026-10-11T14:30:00"
+}
